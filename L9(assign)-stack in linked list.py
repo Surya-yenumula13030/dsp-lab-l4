@@ -1,5 +1,5 @@
 #Implement stack operation through singly linked list
-#121910313025
+
 class Node:
 	def _init_(self,data):
 		self.data = data
