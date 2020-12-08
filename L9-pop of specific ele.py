@@ -1,4 +1,4 @@
-#121910313025
+#121910313030
 #To pop a specific element from stack
 stack=[]
 n=int(input("Enter number of elements:"))
