@@ -1,5 +1,5 @@
 #to implement selection sort using recursive
-#121910313025
+
 def minIndex( a , i , j ): 
     if i == j: 
         return i 
