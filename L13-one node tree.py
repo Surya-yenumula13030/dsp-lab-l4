@@ -1,5 +1,4 @@
 #To create a single node in binary tree
-#121910313025
 #class
 class Node:
     def __init__(self,data):
