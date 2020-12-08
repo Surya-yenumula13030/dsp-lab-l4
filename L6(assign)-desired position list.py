@@ -1,4 +1,3 @@
-#121910313025
 #Insert node at desired position of the list
 class Node:
     def _init_(self,dataval=None):
