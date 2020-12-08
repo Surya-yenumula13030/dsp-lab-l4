@@ -1,4 +1,3 @@
-#121910313025
 #Push and Pop in stack
 stack = []
 n=int(input("Enter number of elements:"))
