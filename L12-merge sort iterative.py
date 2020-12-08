@@ -1,4 +1,3 @@
-#121910313025
 #To implement merge sort iterative
 def mergeSort(arr):
     current_size=1
