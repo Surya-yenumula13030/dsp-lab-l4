@@ -1,5 +1,4 @@
 #Deleting first node
-#121910313025
 #Node Class
 class node:
     def _init_(self,data):
