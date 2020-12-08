@@ -1,4 +1,3 @@
-#121910313025
 #inserting a node at any position in doubly linked list   
 class Node:    
     def _init_(self,data):    
