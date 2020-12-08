@@ -1,4 +1,3 @@
-#121910313025
 #to create a double linked list
 class Node:
     def __init__(self,data):
