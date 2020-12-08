@@ -1,4 +1,3 @@
-#121910313025
 #Delete a Node at Beginning, at Ending and at a given Position
 #node class
 class node:
