@@ -1,4 +1,3 @@
-#121910313025
 #program to implement linear search by user defined functions
 def linearSearch(arr,n,x):
 
