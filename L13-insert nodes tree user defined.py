@@ -1,5 +1,4 @@
 #Create a binary tree and insert atleast 12 nodes using user inputs
-#121910313025
 class Node:
     def __init__(self,data):
         self.left=None
