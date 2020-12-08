@@ -1,4 +1,3 @@
-#121910313025
 #to del last node from linked list
 class Node:  
   
