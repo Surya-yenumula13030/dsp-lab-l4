@@ -1,4 +1,3 @@
-#121910313025
 #Program to implement linear search
 flag=0
 #to input array
