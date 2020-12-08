@@ -1,4 +1,3 @@
-#121910313025
 #Identify the biggest and smallest key in a doubly linked list containing integers.
 #node class
 class node:
