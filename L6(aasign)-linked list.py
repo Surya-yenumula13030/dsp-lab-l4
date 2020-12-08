@@ -1,4 +1,3 @@
-#121910313025
 class Node:
     def _init_(self, data=None):
         self.data = data
