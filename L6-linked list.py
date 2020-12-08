@@ -1,4 +1,3 @@
-#121910313025
 #To create a linked list with sample inputs
 #Node class
 class Node:
