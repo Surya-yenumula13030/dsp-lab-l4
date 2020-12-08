@@ -1,4 +1,3 @@
-#121910313025
 #Program to implement binary search
 def binarySearch(arr,low,high,x):
     #check base case
