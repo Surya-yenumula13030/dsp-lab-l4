@@ -1,4 +1,3 @@
-#121910313025
 #Represent a node of doubly linked list    
 class Node:    
     def _init_(self,data):    
