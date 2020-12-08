@@ -1,4 +1,3 @@
-#121910313025
 #To delete last node
 #Node Class
 class node:
