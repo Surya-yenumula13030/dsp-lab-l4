@@ -1,4 +1,3 @@
-#121910313025
 #water gates
 st=input("Enter string: ")
 s=[]
