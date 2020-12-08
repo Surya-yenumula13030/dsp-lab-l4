@@ -1,5 +1,3 @@
-#121910313025
-
 #Count the number of nodes in a doubly linked list.
 #node class
 class node:
