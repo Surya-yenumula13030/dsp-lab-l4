@@ -1,5 +1,4 @@
 #To evaluate postfix expression
-#121910313025
 class Evaluate: 
       
     # Constructor to initialize the class variables 
