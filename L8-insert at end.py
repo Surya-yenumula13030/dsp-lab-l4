@@ -1,4 +1,3 @@
-#121910313025
 #to create a double linked list and insert node at end
 #create class
 class Node:
