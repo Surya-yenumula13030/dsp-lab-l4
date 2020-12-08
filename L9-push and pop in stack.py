@@ -1,4 +1,3 @@
-#121910313025
 #Pop and Push in stack program 
 class Stack:
     def __init__(self):
