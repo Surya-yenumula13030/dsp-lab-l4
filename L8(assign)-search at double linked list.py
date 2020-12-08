@@ -1,4 +1,3 @@
-#121910313025
 #Search for an element in a doubly linked list
 #node class
 class node:
