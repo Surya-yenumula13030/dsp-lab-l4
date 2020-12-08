@@ -1,5 +1,4 @@
 #To implement merge sort recursive
-#121910313025
 
 def mergeSort(arr):
     if len(arr) > 1:
